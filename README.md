@@ -8,6 +8,9 @@ GOOGLE镜像收集
 -5：https://xs.dailyheadlines.cc/
 -6：https://xueshu.soogle.top/
 -7：https://scholar.lanfanshu.cn/
+-8：https://so.niostack.com/
+-9：https://gg.xueshu5.com
+-10：https://c3.zgdhhjha.com/scholar/
 ——搜索
 -1：https://google.fuckcloudnative.io/?imyshare.com=friends
 -2：https://goo.gle.workers.dev/?imyshare.com=friends
